@@ -1,0 +1,23 @@
+.mint {
+    background-color: mediumaquamarine;
+    width: 98vw;
+    height: 97.5vh;
+}
+.white1 {
+    background-color: white;
+    z-index: 1;
+    position: relative;
+    top: 100px;
+    left: 100px;
+    width: 200px;
+    height: 200px;
+}
+.white2 {
+    background-color: white;
+    z-index: 1;
+    position: relative;
+    top: 45vh;
+    left: 80vw;
+    width: 200px;
+    height: 200px;
+}
