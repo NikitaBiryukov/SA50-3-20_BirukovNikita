@@ -33,30 +33,30 @@ div {
     left: 800px;
     background-color: #5D5FEF;
 }
-p {
+ p { 
     position: relative;
     top: 10px;
 }
-.button1:active {
+/* .button1:active { */
     background: white;
     box-shadow: inset 0 0 0 3px red;
 
 }
-.button2:active {
+/* .button2:active { */
     background: white;
     box-shadow: inset 0 0 0 3px red;
 
 }
-.button3:active {
+/* .button3:active { */
     background: white;
     box-shadow: inset 0 0 0 3px red;
 }
-.button1:hover {
+/* .button1:hover { */
     background: white;
     box-shadow: inset 0 0 0 3px red;
 
 }
-.button2:hover {
+/* .button2:hover { */
     background: white;
     box-shadow: inset 0 0 0 3px red;
 
